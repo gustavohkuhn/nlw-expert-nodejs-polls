@@ -5,6 +5,7 @@
 
 A real-time voting system where users can create a poll and other users can cast their votes. 
 The system generates a ranking among the options and updates the votes in real-time.
+- Project developed during Rocketseat NLW Expert Node.js Immersion
 
 ## Libraries and Tools
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
