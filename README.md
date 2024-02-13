@@ -3,11 +3,17 @@
 ![polls](https://github.com/gustavohkuhn/nlw-expert-nodejs-polls/assets/115676346/f732ffc6-dd2a-4f83-8d51-dae610d2de70)
 
 
+[EN] 
 A real-time voting system where users can create a poll and other users can cast their votes. 
 The system generates a ranking among the options and updates the votes in real-time.
 - Project developed during Rocketseat NLW Expert Node.js Immersion
+  
+[PT-BR]
+Um sistema de votação em tempo real onde os usuários podem criar uma enquete e outros usuários podem votar.
+O sistema gera um ranking entre as opções e atualiza os votos em tempo real.
+- Projeto desenvolvido durante a Imersão Rocketseat NLW Expert Node.js
 
-## Libraries and Tools
+## Tools
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
